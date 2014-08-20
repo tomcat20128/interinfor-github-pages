@@ -71,14 +71,14 @@ body {
 }
 
 
-.feature img {
-	margin-bottom: 2em;
-}
+
 
 #description  {
 	border: 1px solid black;
+	text-align: center;
 	margin-bottom: 7px;
 	padding-top: 7px;
+	margin: 12px;
 	color:white;
 	font-size: 16px
 }
@@ -89,5 +89,10 @@ color:white;
 letter-spacing: 2px;
 font-weight: 300;
 }
+
+.container {
+	text-align: center;
+}
+
 
 
