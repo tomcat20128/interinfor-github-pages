@@ -20,11 +20,11 @@ body {
 
 #wrapper {
 	background-image: url("../images/background.jpg");
-	height: 650px;
+	height: 750px;
 	background-size: cover;
 	text-align: center;
 	padding-top: 150px;
-	color: #8EC547;
+	color: #3366FF;
 	text-shadow:2px 2px 5px rgba (0,0,0, 0.7);
 }
 
